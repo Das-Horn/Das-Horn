@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Das-Horn
+- 👋 Hi, I’m Craig Doyle
 - 👀 I’m interested in Rust, Python & Javascript
 - 🌱 I’m currently learning Rust
-- 💞️ I’m looking to collaborate on nothing atm
+<!-- - 💞️ I’m looking to collaborate on nothing atm -->
 - 📫 How to reach me 
 
 <!---
